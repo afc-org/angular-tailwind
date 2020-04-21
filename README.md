@@ -30,7 +30,7 @@ We plan on implementing more, in the weeks to come.
 
 |Angular|JavaScript|React|Svelte|VueJS|
 | --- | --- | --- | --- | --- |
-| <a href="https://github.com/afc-org/angular-tailwind" target="_blank">[Check Angular](./assets/logos/angular-tailwind-logo.png)</a>  | <a href="https://github.com/afc-org/js-tailwind" target="_blank">[Check JavaScript](./assets/logos/javascript-tailwind-logo.png)</a>  | <a href="https://github.com/afc-org/react-tailwind" target="_blank">[Check React](./assets/logos/react-tailwind-logo.png)</a>  | <a href="https://github.com/afc-org/svelte-tailwind" target="_blank">[Check Svelte](./assets/logos/svelte-tailwind-logo.png)</a>    | <a href="https://github.com/afc-org/vue-tailwind" target="_blank">[Check VueJS](./assets/logos/vuejs-tailwind-logo.png)</a>|
+| <a href="https://github.com/afc-org/angular-tailwind" target="_blank">![Check Angular](./assets/logos/angular-tailwind-logo.png)</a>  | <a href="https://github.com/afc-org/js-tailwind" target="_blank">![Check JavaScript](./assets/logos/javascript-tailwind-logo.png)</a>  | <a href="https://github.com/afc-org/react-tailwind" target="_blank">![Check React](./assets/logos/reactjs-tailwind-logo.png)</a>  | <a href="https://github.com/afc-org/svelte-tailwind" target="_blank">![Check Svelte](./assets/logos/svelte-tailwind-logo.png)</a>    | <a href="https://github.com/afc-org/vue-tailwind" target="_blank">![Check VueJS](./assets/logos/vuejs-tailwind-logo.png)</a>|
 
 ## Components
 
