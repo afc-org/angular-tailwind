@@ -1,12 +1,12 @@
-# @afc/angular-tailwind
+# @afc-org/angular-tailwind
 
 ![version](https://img.shields.io/badge/version-0.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/afc-org/angular-tailwind/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/afc-org/angular-tailwind.svg)</a> <a href="https://github.com/afc-org/angular-tailwind?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/afc-org/angular-tailwind.svg)</a>
 
-<div align="center"><img src="./assets/logos/angular-tailwind-logo.png" alt="@afc/angular-tailwind" width="300"/></div>
+<div align="center"><img src="./assets/logos/angular-tailwind-logo.png" alt="@afc-org/angular-tailwind" width="300"/></div>
 
 ### A dynamic plugin extension for TailwindCSS.
 
-**@afc/angular-tailwind** is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS, It comes with code written with angular as an extension to TailwindCSS for you to have dynamic components inside your app as well.
+**@afc-org/angular-tailwind** is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS, It comes with code written with angular as an extension to TailwindCSS for you to have dynamic components inside your app as well.
 
 ### Components
 
@@ -46,15 +46,15 @@ We plan on implementing more, in the weeks to come.
 ## Quick start
 
 ```
-npm i -E @afc/angular-tailwind
+npm i -E @afc-org/angular-tailwind
 ```
 
 ## Documentation
 
-After you have installed `@afc/angular-tailwind` into your project, you can import and use our components like so:
+After you have installed `@afc-org/angular-tailwind` into your project, you can import and use our components like so:
 
 ```
-import { <ModuleName>Module } from "@afc/angular-tailwind";
+import { <ModuleName>Module } from "@afc-org/angular-tailwind";
 
 @NgModule({
   ...
@@ -87,7 +87,7 @@ Then, you can import your styles inside your `angular.json` file like so:
 
 ## Dependencies
 
-**@afc/angular-tailwind** to properly work needs the following dependencies:
+**@afc-org/angular-tailwind** to properly work needs the following dependencies:
 - **@popperjs/core**@2.2.1
 - **@angular/core**@9.1.1
 ```
@@ -106,7 +106,7 @@ At present, we officially aim to support the last two versions of the following 
 
 We use GitHub Issues as the official bug tracker for the Angular Landing Page. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of @afc/angular-tailwind.
+1. Make sure that you are using the latest version of @afc-org/angular-tailwind.
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -115,7 +115,7 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 
 ## Licensing
 
-- Copyright 2020 @afc/angular-tailwind
+- Copyright 2020 @afc-org/angular-tailwind
 
 - Licensed under <a href="https://github.com/afc-org/angular-tailwind/blob/master/LICENSE.md" target="_blank">MIT</a>
 
