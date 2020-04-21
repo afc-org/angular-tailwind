@@ -1,5 +1,5 @@
 {
-  "name": "@tailwindjs/angular-tailwindjs",
+  "name": "@afc/angular-tailwind",
   "version": "0.1.0",
   "description": "Dynamic components for Tailwindcss and Angular",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tailwindjs/angular-tailwindjs.git"
+    "url": "git+https://github.com/afc-org/angular-tailwind.git"
   },
   "keywords": [
     "angular",
@@ -22,12 +22,15 @@
     "angular-tailwind",
     "angular-tailwindcss",
     "angular-tailwindjs",
-    "tailwindjs"
+    "tailwindjs",
+    "afc-org",
+    "afc",
+    "@afc"
   ],
-  "author": "@tailwindjs",
+  "author": "afc-org",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tailwindjs/angular-tailwindjs/issues"
+    "url": "https://github.com/afc-org/angular-tailwind/issues"
   },
-  "homepage": "https://github.com/tailwindjs/angular-tailwindjs#readme"
+  "homepage": "https://github.com/afc-org/angular-tailwind#readme"
 }
