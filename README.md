@@ -6,7 +6,7 @@
 
 ### A dynamic plugin extension for TailwindCSS.
 
-@afc/angular-tailwind is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS, It comes with code written with angular as an extension to TailwindCSS for you to have dynamic components inside your app as well.
+**@afc/angular-tailwind** is Free and Open Source. It does not change or add any CSS to the already one from TailwindCSS, It comes with code written with angular as an extension to TailwindCSS for you to have dynamic components inside your app as well.
 
 ### Components
 
