@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-0.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) <a href="https://github.com/afc-org/angular-tailwind/issues?q=is%3Aopen+is%3Aissue" target="_blank">![GitHub issues open](https://img.shields.io/github/issues/afc-org/angular-tailwind.svg)</a> <a href="https://github.com/afc-org/angular-tailwind?q=is%3Aissue+is%3Aclosed" target="_blank">![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/afc-org/angular-tailwind.svg)</a>
 
-![@afc/angular-tailwind](./assets/logos/angular-tailwind-logo.png)
+<img src="./assets/logos/angular-tailwind-logo.png" alt="@afc/angular-tailwind" width="300"/>
 
 ### A dynamic plugin extension for TailwindCSS.
 
