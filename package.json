@@ -22,7 +22,10 @@
     "angular-tailwind",
     "angular-tailwindcss",
     "angular-tailwindjs",
-    "tailwindjs"
+    "tailwindjs",
+    "afc-org",
+    "afc",
+    "@afc"
   ],
   "author": "afc-org",
   "license": "MIT",
