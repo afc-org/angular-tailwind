@@ -115,7 +115,7 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 
 ## Licensing
 
-- Copyright 2020 afc-org/angular-tailwind
+- Copyright 2020 @afc/angular-tailwind
 
 - Licensed under <a href="https://github.com/afc-org/angular-tailwind/blob/master/LICENSE.md" target="_blank">MIT</a>
 
