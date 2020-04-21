@@ -16,7 +16,7 @@ Please feel free to take on any issue that's currently open. Just send a comment
 
 ## Submitting a pull request
 
-@afc/angular-tailwind is an open-source project, so pull requests are always welcomed (_always_ ❤️).
+**@afc/angular-tailwind** is an open-source project, so pull requests are always welcomed (_always_ ❤️).
 What we ask you, is that before working on a large change, it is best to open an issue first to discuss it with the maintainers or if an issue was already opened, comment your intention of opening up a PR.
 
 When in doubt, keep your pull requests small. To give a PR the best chance of getting accepted, don't bundle more than one feature or bug fix per pull request. It's always best to create two smaller PRs than one big one.
